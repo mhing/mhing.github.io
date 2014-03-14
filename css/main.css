@@ -70,7 +70,7 @@ a:hover   { color: #2A5DB0; }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  font-size: 250%;
 }
 
 .title a {
