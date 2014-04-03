@@ -5,6 +5,8 @@ date:   2014-03-14 15:00:00
 categories: jekyll update
 ---
 
-Puzzlr is a JavaScript puzzle game based on the plastic 3x3 picture puzzles. Slide the pieces around until the puzzle is solved.
+Puzzlr is a JavaScript puzzle game based on the classic plastic 3x3 picture slider puzzles. Slide the pieces around until the puzzle is solved.
 
 Check out [Puzzlr](https://puzzlr.herokuapp.com/)
+
+![Puzzlr Screen Shot]({{ site.url }}/assets/puzzlr.png)
