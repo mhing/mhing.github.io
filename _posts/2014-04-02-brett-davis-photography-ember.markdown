@@ -7,6 +7,6 @@ categories: jekyll update
 
 Updated version of Brooklyn, NY based photographer Brett Davis's portfolio using Ember.js.
 
-Check it out: [Brett Davis Photography](http://mhing.github.io/BrettDavisPhotography-Ember/#/){:target="_blank"}
+Check it out: [Brett Davis Photography](http://mhing.github.io/BrettDavisPhotography-Ember/#/)
 
 ![Brett Davis Photography Screen Shot]({{ site.url }}/assets/brettDavisPhoto.png)

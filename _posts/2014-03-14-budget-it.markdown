@@ -9,4 +9,4 @@ Budget-It is a Ruby on Rails budget tracking web application to help manage your
 
 With Budget-It you can create a budget and add expenses. It also lets you track your sources of income and provides a breakdown of your net worth. It also allows you to view all submitted expenses and incomes.
 
-Check out [Budget-It](https://budget-it.herokuapp.com/){:target="_blank"}
+Check out [Budget-It](https://budget-it.herokuapp.com/)
